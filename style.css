@@ -1,0 +1,75 @@
+.BG{
+    background-image: url(mafe0.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+    text-align: center;
+    
+}
+.ima{
+    background-image: url(mafe.jpg);
+    height: 500px;
+    border-radius: 100px;
+}
+.im{
+    background-image: url(mafe.jpg);
+    background-size:100% ;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 90%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.it{
+    background-image: url(it.jpg);
+    background-size:100% ;
+    background-repeat: no-repeat;
+    background: linear-gradient(10%);
+    height: 300px;
+    width: 90%;
+    border-radius: 10px;
+    text-align: center;
+}
+.id{
+    background-image: url(mafe.jpg);
+    background-size:100% ;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 90%;
+    border-radius: 10px;
+    text-align: center;
+}
+h1,h2,h3,p{
+   background-color: rgb(193, 192, 192);
+   opacity: 0.8;
+   color: black;
+}
+h1{
+    text-align: center;
+}
+.res{
+    background-image: url(res.jpg);
+    background-size:100% ;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 90%;
+    border-radius: 10px;
+    
+}
+.footer{
+    background-color: beige;
+    background-size: 100%;
+    height: 150px;
+    width: 100%;
+}
+.footer0 {
+    text-align: center;
+    text-decoration: none;
+    
+
+}
+.footer0 a{
+    text-decoration: none;
+
+}
